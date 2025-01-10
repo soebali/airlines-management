@@ -1,5 +1,7 @@
 Flight Booking Application
+
 Introduction
+
 The Flight Booking Application is a web-based platform that allows users to search for flights, book tickets, and manage their bookings. The application provides a user-friendly interface for both new and returning users, enabling them to register, log in, and view available flights based on their travel preferences.
 
 Problem Domain
